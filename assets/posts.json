@@ -1,5 +1,95 @@
 [
   {
+    "slug": "kleiderschrank-ausmisten-3-schritte",
+    "title": "Kleiderschrank ausmisten in 3 Schritten, mit Vier-Kriterien-Raster",
+    "hook": "Vorbereitung, das Entscheidungsraster, die drei Stapel sinnvoll sortieren. Drei Schritte mit einem klaren System statt Bauchgefühl, plus…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/kleiderschrank-ausmisten-3-schritte.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleiderschrank-organisieren-komplett",
+    "title": "Kleiderschrank organisieren: ausmisten, einräumen, dauerhaft halten",
+    "hook": "Ausmisten, einräumen, dauerhaft halten, die Reihenfolge, die wirklich funktioniert. Von der ersten Bestandsaufnahme bis zum System, das…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleiderschrank-organisieren-komplett.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "falten-vertikal-anleitung",
+    "title": "Kleidung platzsparend falten: die vertikale Methode für jedes Teil",
+    "hook": "Nicht falte es einfach dreimal, sondern die genaue Falthöhe für deine Schublade. Eine nummerierte Anleitung für T-Shirts, Hosen, Pullover…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/falten-vertikal-anleitung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleine-kueche-2-schritte",
+    "title": "Kleine Küche organisieren in 2 Schritten, ganz ohne Bohren",
+    "hook": "Nicht mehr Organizer kaufen, sondern zuerst ehrlich aussortieren, dann gezielt nachrüsten. Mit der 3-Kisten-Methode für die Küche und…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleine-kueche-2-schritte.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kleines-bad-zonen-uebersicht",
+    "title": "Kleines Bad organisieren: 6 versteckte Stauraum-Zonen nutzen",
+    "hook": "Über der Toilette, an der Tür, am Siphon, an der Wand, in der Ecke, in der Dusche. Sechs Zonen, die in den meisten kleinen Bädern komplett…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kleines-bad-zonen-uebersicht.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "konmari-methode-5-kategorien",
+    "title": "KonMari Methode: Schritt für Schritt Anleitung mit Zeitplanung",
+    "hook": "Kleidung, Bücher, Papiere, Komono, Erinnerungsstücke, in genau dieser Reihenfolge. Mit realistischer Zeitplanung pro Kategorie und einer…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/konmari-methode-5-kategorien.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kueche-organisieren-bereiche",
+    "title": "Küche organisieren: Systeme für jeden Bereich, vom Vorrat bis zur Tupperware",
+    "hook": "Ausmisten, Zonen einteilen, dauerhaft halten. Ein System für jeden Bereich der Küche, vom Vorratsschrank über Schubladen und Töpfe bis zum…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kueche-organisieren-bereiche.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "toepfe-pfannen-ohne-umbau",
+    "title": "Töpfe, Pfannen und Deckel organisieren, ganz ohne Umbau",
+    "hook": "Erst ausmisten, dann nach Nutzungshäufigkeit sortieren, dann bei Bedarf ein bis zwei günstige Nachrüst-Teile ohne Bohren ergänzen. Ein…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/toepfe-pfannen-ohne-umbau.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kuehlschrank-zonen-uebersicht",
+    "title": "Kühlschrank richtig einräumen: Zonen für jeden Gerätetyp",
+    "hook": "Unten kalt, oben mild, die Tür am wärmsten, bei klassischen Kühlschränken. Bei Umluftkühlung gilt eine andere Logik. Beide Systeme im…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kuehlschrank-zonen-uebersicht.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schminktisch-zonen-haltbarkeit",
+    "title": "Schminktisch organisieren: Zonensystem und Haltbarkeits-Check",
+    "hook": "Ein Zonensystem nach Nutzungshäufigkeit, kombiniert mit einem festen Blick auf die Haltbarkeit. Denn eine hübsche Ordnung, in der…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schminktisch-zonen-haltbarkeit.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "ausmisten-methoden-vergleich-schnell",
     "title": "10 Ausmisten-Methoden im Vergleich, welche passt in 30 Minuten?",
     "hook": "Manche Methoden sind in 20 Minuten erledigt, andere brauchen einen kompletten Tag pro Kategorie. Statt selbst auszuprobieren, was am Ende…",

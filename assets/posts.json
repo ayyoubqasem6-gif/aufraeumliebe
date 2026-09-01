@@ -1,5 +1,104 @@
 [
   {
+    "slug": "medikamentenschrank-3-schritte",
+    "title": "Medikamentenschrank ausmisten und richtig sortieren",
+    "hook": "Abgelaufene Medikamente konsequent aussortieren, den Rest nach Kategorien ordnen, kindersicher und richtig lagern, und alles, was raus…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/medikamentenschrank-3-schritte.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "ordnung-routine-wochenplan",
+    "title": "Ordnung halten Routine: Dein 15-Minuten-Wochenplan",
+    "hook": "Montag Küche, Dienstag Bad, Mittwoch Wohnzimmer, und so weiter, bis die Woche einmal komplett durch ist. Jeder Slot dauert 15 Minuten,…",
+    "category": "putzroutinen",
+    "categoryLabel": "Putzroutinen",
+    "image": "assets/img/ordnung-routine-wochenplan.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "ordnung-schwer-halten-gruende",
+    "title": "Warum Ordnung schwer zu halten ist: Die echten Gründe",
+    "hook": "Kein Charakterproblem, sondern ein Systemproblem. Sechs Gründe, warum sich Ordnung so schwer halten lässt, plus die Prinzipien, die…",
+    "category": "ratgeber",
+    "categoryLabel": "Ratgeber",
+    "image": "assets/img/ordnung-schwer-halten-gruende.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "pareto-prinzip-8020",
+    "title": "Das Pareto Prinzip beim Aufräumen: 80/20-Regel erklärt",
+    "hook": "Mit etwa 20 Prozent deines Aufwands erreichst du schon 80 Prozent der gewünschten Ordnung. Die praktische Übung, um deine eigenen 20…",
+    "category": "ratgeber",
+    "categoryLabel": "Ratgeber",
+    "image": "assets/img/pareto-prinzip-8020.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "sachen-spenden-kategorien",
+    "title": "Sachen spenden: Wohin mit alten Sachen in Deutschland?",
+    "hook": "Kleidung, Möbel, Bücher, Elektrogeräte, Spielzeug, für jede Kategorie die passende Anlaufstelle, plus was seit 2025 rechtlich neu ist.",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/sachen-spenden-kategorien.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schlafzimmer-checkliste-routine",
+    "title": "Schlafzimmer minimalistisch einrichten für besseren Schlaf",
+    "hook": "Ordnung und Reizarmut schaffen die Voraussetzungen, unter denen Entspannung überhaupt erst stattfinden kann. Mit Checkliste zum Entrümpeln…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schlafzimmer-checkliste-routine.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "schublade-kueche-3-schritte",
+    "title": "Schubladenorganisation Küche: So wird sie endlich ordentlich",
+    "hook": "Nicht der Einsatz macht den Unterschied, sondern die Reihenfolge: erst ausmisten, dann ordnen, dann erhalten. Eine komplette Checkliste von…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/schublade-kueche-3-schritte.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "vorratskammer-fifo-system",
+    "title": "Vorratskammer Ordnungssystem: So klappt FIFO wirklich",
+    "hook": "Eine klare Regal-Logik nach dem FIFO-Prinzip und Kategorien, die zu deinem echten Alltag passen. Ob ganzer Raum, Schrank oder zwei…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/vorratskammer-fifo-system.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "waschmittel-sicherheit-pflege",
+    "title": "Waschmittel richtig lagern & Waschmaschine pflegen",
+    "hook": "Zwei Dinge, die in den meisten Ordnungs-Ratgebern fehlen: echte Sicherheit bei der Lagerung und eine Pflegeroutine, die deine Geräte länger…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/waschmittel-sicherheit-pflege.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "wie-oft-ausmisten-richtwerte",
+    "title": "Wie oft ausmisten? Der richtige Rhythmus nach Kategorie",
+    "hook": "Kein starres Kalenderdatum, sondern Richtwerte nach Kategorie, und Warnzeichen, die zuverlässiger sind als jeder Kalender.",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/wie-oft-ausmisten-richtwerte.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "wohnzimmer-zone-fuer-zone",
+    "title": "Wohnzimmer organisieren: Ordnung im Wohnbereich",
+    "hook": "Kabelchaos, Couchtisch und Kissenberge lösen, mit Stauraum-Tipps, die im Alltag wirklich funktionieren. Jede Problemzone einzeln gelöst,…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/wohnzimmer-zone-fuer-zone.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "kleiderschrank-ausmisten-3-schritte",
     "title": "Kleiderschrank ausmisten in 3 Schritten, mit Vier-Kriterien-Raster",
     "hook": "Vorbereitung, das Entscheidungsraster, die drei Stapel sinnvoll sortieren. Drei Schritte mit einem klaren System statt Bauchgefühl, plus…",

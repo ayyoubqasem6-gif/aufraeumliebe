@@ -1,5 +1,95 @@
 [
   {
+    "slug": "ausmisten-methoden-vergleich-schnell",
+    "title": "10 Ausmisten-Methoden im Vergleich, welche passt in 30 Minuten?",
+    "hook": "Manche Methoden sind in 20 Minuten erledigt, andere brauchen einen kompletten Tag pro Kategorie. Statt selbst auszuprobieren, was am Ende…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/ausmisten-methoden-schnellcheck.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "minimalismus-gewohnheiten-schnellcheck",
+    "title": "10 minimalistische Gewohnheiten, aber du brauchst nur eine zum Start",
+    "hook": "Du musst nicht alle zehn Gewohnheiten gleichzeitig umsetzen, um einen Unterschied zu merken. Von der Ein-Minuten-Regel bis zur…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/minimalismus-gewohnheiten-schnelltest.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "5-kisten-methode-schritt-fuer-schritt",
+    "title": "Die 5-Kisten-Methode: so sortierst du entspannt aus",
+    "hook": "Fünf Kisten, eine Kategorie zum Start, etwas Zeit, mehr braucht es nicht. Statt bei jedem Gegenstand nur zwischen behalten und wegwerfen zu…",
+    "category": "ausmisten-minimalismus",
+    "categoryLabel": "Ausmisten & Minimalismus",
+    "image": "assets/img/5-kisten-methode-checkliste.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "abstellkammer-7-systeme",
+    "title": "Abstellkammer einrichten in 3 Schritten, plus 7 Systeme im Vergleich",
+    "hook": "Erst ausmisten, dann realistisch planen, dann das passende System wählen. Mit konkreten Maßen nach Quadratmetern, einem Sicherheitshinweis…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/abstellkammer-einrichten-7systeme.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "badezimmer-spiegelschrank-zuordnung",
+    "title": "Spiegelschrank oder Unterschrank, eine klare Regel für jeden Gegenstand",
+    "hook": "Medikamente, Wirkstoff-Kosmetik und Dinge, die du täglich mehrfach nutzt, gehören in den Spiegelschrank. Robuste Vorräte und…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/badezimmer-organisieren-zuordnung.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "handtuecher-falten-2-techniken",
+    "title": "Handtücher falten wie im Hotel, und platzsparend rollen für den Alltag",
+    "hook": "Für den Deko-Look brauchst du die klassische Hotel-Faltung mit Sockel-Technik. Für den Alltag ist Rollen fast immer die bessere Wahl, weil…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/handtuecher-falten-2techniken.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "hauswirtschaftsraum-organisieren-plan",
+    "title": "Hauswirtschaftsraum organisieren, 6 Zonen, 1 klarer Plan",
+    "hook": "Wand, Arbeitsfläche, Boden, Putzmittel-Zone, Sonderlösungen für kleine Räume und die oberste Ablage. Jede Zone bekommt eine feste Aufgabe,…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/hauswirtschaftsraum-organisieren-plan.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "homeoffice-organisieren-5-punkte",
+    "title": "Homeoffice organisieren in 5 Punkten, Schreibtisch bis digitale Ablage",
+    "hook": "Nur Tagesaufgaben auf dem Tisch, Kabel gebündelt statt versteckt, eine tägliche Zwei-Minuten-Routine und digitale Ordnung, die viele…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/homeoffice-organisieren-5punkte.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kapselgarderobe-erstellen-schritte",
+    "title": "Kapselgarderobe erstellen, in klaren Schritten von der Auswahl bis zur Aufbewahrung",
+    "hook": "Bestandsaufnahme, Farbpalette festlegen, Teile auswählen, und vor allem: ein System für die restliche Kleidung, das den nächsten…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kapselgarderobe-erstellen-schritte.png",
+    "date": "2026-09-01"
+  },
+  {
+    "slug": "kinderzimmer-organisieren-6-schritte",
+    "title": "Kinderzimmer organisieren in 6 Schritten, die dein Kind wirklich mitnehmen",
+    "hook": "Bestandsaufnahme, Aussortieren ohne Drama, Zonen einteilen, das richtige System wählen, Kleidung organisieren und eine Routine, die auch an…",
+    "category": "zimmer-guides",
+    "categoryLabel": "Zimmer-Guides",
+    "image": "assets/img/kinderzimmer-organisieren-6schritte.png",
+    "date": "2026-09-01"
+  },
+  {
     "slug": "kleiderschrank-3-schritte",
     "title": "3 Dinge, die ich an meinem kleinen Kleiderschrank geändert habe",
     "hook": "Kein neuer Schrank, keine Bohrmaschine. 3 einfache Änderungen, die wirklich mehr Platz gebracht haben.",

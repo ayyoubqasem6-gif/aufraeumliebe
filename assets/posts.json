@@ -77,7 +77,7 @@
     "hook": "Montag Küche, Dienstag Bad, Mittwoch Wohnzimmer, und so weiter, bis die Woche einmal komplett durch ist. Jeder Slot dauert 15 Minuten,…",
     "category": "putzroutinen",
     "categoryLabel": "Putzroutinen",
-    "image": "assets/img/ordnung-routine-wochenplan.webp",
+    "image": "assets/img/ordnung-routine-uebersicht-neu.webp",
     "date": "2026-09-01"
   },
   {
@@ -104,7 +104,7 @@
     "hook": "Kleidung, Möbel, Bücher, Elektrogeräte, Spielzeug, für jede Kategorie die passende Anlaufstelle, plus was seit 2025 rechtlich neu ist.",
     "category": "ausmisten-minimalismus",
     "categoryLabel": "Ausmisten & Minimalismus",
-    "image": "assets/img/sachen-spenden-kategorien.webp",
+    "image": "assets/img/sachen-spenden-uebersicht-neu.webp",
     "date": "2026-09-01"
   },
   {
@@ -122,7 +122,7 @@
     "hook": "Nicht der Einsatz macht den Unterschied, sondern die Reihenfolge: erst ausmisten, dann ordnen, dann erhalten. Eine komplette Checkliste von…",
     "category": "zimmer-guides",
     "categoryLabel": "Zimmer-Guides",
-    "image": "assets/img/schublade-kueche-3-schritte.webp",
+    "image": "assets/img/schublade-kueche-uebersicht-neu.webp",
     "date": "2026-09-01"
   },
   {
@@ -194,7 +194,7 @@
     "hook": "Nicht mehr Organizer kaufen, sondern zuerst ehrlich aussortieren, dann gezielt nachrüsten. Mit der 3-Kisten-Methode für die Küche und…",
     "category": "zimmer-guides",
     "categoryLabel": "Zimmer-Guides",
-    "image": "assets/img/kleine-kueche-2-schritte.webp",
+    "image": "assets/img/kleine-kueche-uebersicht-neu.webp",
     "date": "2026-09-01"
   },
   {
@@ -212,7 +212,7 @@
     "hook": "Kleidung, Bücher, Papiere, Komono, Erinnerungsstücke, in genau dieser Reihenfolge. Mit realistischer Zeitplanung pro Kategorie und einer…",
     "category": "ausmisten-minimalismus",
     "categoryLabel": "Ausmisten & Minimalismus",
-    "image": "assets/img/konmari-methode-5-kategorien.webp",
+    "image": "assets/img/konmari-methode-uebersicht-neu.webp",
     "date": "2026-09-01"
   },
   {
@@ -257,7 +257,7 @@
     "hook": "Manche Methoden sind in 20 Minuten erledigt, andere brauchen einen kompletten Tag pro Kategorie. Statt selbst auszuprobieren, was am Ende…",
     "category": "ausmisten-minimalismus",
     "categoryLabel": "Ausmisten & Minimalismus",
-    "image": "assets/img/ausmisten-methoden-schnellcheck.webp",
+    "image": "assets/img/ausmisten-methoden-uebersicht-neu.webp",
     "date": "2026-09-01"
   },
   {
@@ -266,7 +266,7 @@
     "hook": "Du musst nicht alle zehn Gewohnheiten gleichzeitig umsetzen, um einen Unterschied zu merken. Von der Ein-Minuten-Regel bis zur…",
     "category": "ausmisten-minimalismus",
     "categoryLabel": "Ausmisten & Minimalismus",
-    "image": "assets/img/minimalismus-gewohnheiten-schnelltest.webp",
+    "image": "assets/img/minimalismus-gewohnheiten-uebersicht-neu.webp",
     "date": "2026-09-01"
   },
   {
@@ -275,7 +275,7 @@
     "hook": "Fünf Kisten, eine Kategorie zum Start, etwas Zeit, mehr braucht es nicht. Statt bei jedem Gegenstand nur zwischen behalten und wegwerfen zu…",
     "category": "ausmisten-minimalismus",
     "categoryLabel": "Ausmisten & Minimalismus",
-    "image": "assets/img/5-kisten-methode-checkliste.webp",
+    "image": "assets/img/5-kisten-methode-uebersicht-neu.webp",
     "date": "2026-09-01"
   },
   {
